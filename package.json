@@ -1,0 +1,14 @@
+{
+  "type" :"module",
+  "name": "parcial-kuitca-rony-ya_21_f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node test/testAll.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
